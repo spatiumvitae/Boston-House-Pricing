@@ -28,4 +28,10 @@ connect with git cli
 git config --global user.name
 git config --global user.email
 ```
-
+commit all the files in git
+```
+1.  it add requirements.txt -- for adding particular file
+    git add . --for adding all the files that needs to be commited
+2.  git commit
+3.  git push origin main
+```
